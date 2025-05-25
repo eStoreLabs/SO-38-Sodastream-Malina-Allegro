@@ -1,0 +1,103 @@
+[
+  {
+    "type": "IMAGE_WITH_TEXT",
+    "image": {
+      "url": "./MOD01.png",
+      "size": "M",
+      "alt": "SODASTREAM SYROP Malina, 440 ml"
+    },
+    "text": {
+      "content": "<h3>SODASTREAM <br />SYROP MALINA, 440 ml</h3>",
+      "order": "FIRST",
+      "align": "MID"
+    }
+  },
+  {
+    "type": "IMAGE_WITH_TEXT",
+    "image": {
+      "url": "./MOD02.png",
+      "size": "M",
+      "alt": "Ekscytująca i zaskakująca podróż"
+    },
+    "text": {
+      "content": "<p>SodaStream Malina to ekscytująca i zaskakująca podróż do smaków przywodzących na myśl lato. Głęboki, pełen słodyczy smak maliny idealnie komponuje się z orzeźwiającymi dodatkami. Stwórz malinową lemoniadę, połącz ją z tonikiem lub dodaj świeże zioła i ciesz się napojem przygotowanym na własnych zasadach.</p><p><strong>Co zyskujesz z SodaStream?</strong></p><ul><li>Ulubione napoje bez wychodzenia z domu,</li><li>Codzienne nawodnienie w wyjątkowym stylu,</li><li>DelektujPełną kontrolę nad poziomem nagazowania i intensywnością smaku,</li><li>Mniej plastikowych butelek i więcej przyjemności i picia wody i napojów gazowanych.</li></ul><p><strong>SodaStream Malina – smak lata w nowoczesnym wydaniu!</strong></p>",
+      "order": "LAST",
+      "align": "MID"
+    }
+  },
+  {
+    "type": "IMAGE",
+    "image": {
+      "url": "./MOD03.png",
+      "size": "L",
+      "alt": "gazuj, miksuj, smakuj"
+    }
+  },
+  {
+    "type": "TEXT",
+    "content": "<p>Ciesz się malinowym smakiem na okrągło! SodaStream Malina to owocowy syrop bez dodatku cukru, który sprawi, że każdy bąbelkowy napój nabierze wyjątkowego charakteru.</p><p>Butelka o pojemności 440 ml pozwala przygotować aż 9 litrów orzeźwiającego napoju – bez konieczności dźwigania ciężkich zgrzewek ze sklepu. To wygoda, oszczędność i smak, który możesz dopasować do swoich upodobań.</p><p><strong>Mniej wysiłku, więcej malinowej przyjemności!</strong></p>"
+  },
+  {
+    "type": "TEXT",
+    "content": "<h3>Jak przygotować malinową lemoniadę w domu?</h3><ol><li><strong>Bąbelkowa baza</strong> – Nagazuj wodę tak, jak lubisz – wybierz lekki, średni, lub mocny gaz. Ty decydujesz!</li><li><strong>Owocowy smak</strong> – Dodaj syrop SodaStream Malina i delikatnie wymieszaj. Ciesz się głębią malinowych bąbelków bez dodatku cukru.</li><li><strong>Finalny akcent</strong> – Uzupełnij napój kostkami lodu, świeżymi malinami lub miętą by uzyskać maksymalny poziom orzeźwienia.</li></ol><p>PAMIĘTAJ! Gazuj zawsze czystą wodę – dodatki i syrop dodawaj na końcu, by zachować pełnię smaku i bąbelków.</p>"
+  },
+  {
+    "type": "IMAGE_WITH_TEXT",
+    "image": {
+      "url": "./MOD04.png",
+      "size": "M",
+      "alt": "Słodkie orzeźwienie "
+    },
+    "text": {
+      "content": "<h3>Słodkie orzeźwienie z dodatkiem witamin</h3><p><strong>Witamina B3</strong><br>Odczuwasz znużenie? Nie tym razem! Witamina B3, czyli niacyna pomaga zmniejszyć uczucie zmęczenia – a teraz znajdziesz ją także w syropie SodaStream Malina.</p><p><strong>Witamina B6</strong><br> Codzienność potrafi zaskakiwać – dlatego warto otaczać się tym, co wspiera balans i dobre samopoczucie. Syrop SodaStream Malina z dodatkiem witaminy B6 to nie tylko pyszny smak, ale też coś ekstra dla Ciebie.</p><p><strong>Cynk</strong><br> Każdy dzień to nowe wyzwania, które wymagają mobilizacji. Syrop SodaStream Malina wzbogaciliśmy o cynk, który wspiera codzienną równowagę i poprawia koncentrację.</p><p>*Opis właściwości witamin i mikroelementów wg. Europejskiego Urzędu ds. Bezpieczeństwa Żywności (EFSA NR 432/2021:291 ,1757; EFSA NR 432/2021: 77, EFSA NR 432/2021: 47)</p>",
+      "order": "LAST",
+      "align": "MID"
+    }
+  },
+  {
+    "type": "IMAGE_WITH_TEXT",
+    "image": {
+      "url": "./MOD05.png",
+      "size": "M",
+      "alt": "Smak Dzieciństwa "
+    },
+    "text": {
+      "content": "<h3>Smak Dzieciństwa w Twojej Szklance – Malinowe Orzeźwienie z SodaStream</h3><p>Malina potrafi zaskoczyć! Odkryj jej nowe, bąbelkowe oblicze, eksperymentuj i twórz wyjątkowe napoje z owocowym twistem - takie, jak lubisz najbardziej:</p><p><strong>Poranne przyjemności</strong> – Rozpocznij dzień malinowymi bąbelkami. Musujący, malinowy smak to doskonały sposób na pobudzenie zmysłów.</p><p><strong>Popołudniowa dawka świeżości</strong> – Ugaś pragnienie i dodaj sobie energii w ciągu dnia. Przygotuj ulubioną, malinową lemoniadę z gałązką mięty i lodem i ciesz się chwilą orzeźwienia.</p><p><strong>Wieczorny relaks z owocową nutą</strong> – Zrelaksuj się po intensywnym dniu z domowym, malinowym moktajlem. Dodaj mrożone maliny, miętę lub inne ulubione dodatki i stwórz idealny napój na wieczór.</p>",
+      "order": "FIRST",
+      "align": "MID"
+    }
+  },
+  {
+    "type": "IMAGE_WITH_TEXT",
+    "image": {
+      "url": "./MOD06.png",
+      "size": "M",
+      "alt": "Bąbelkowe ABC"
+    },
+    "text": {
+      "content": "<h3>Bąbelkowe ABC</h3><p><strong>Jak przygotować wodę w saturatorze SodaStream?</strong><br>Nalej wodę do butelki do linii maksymalnego poziomu napełnienia, zamontuj w saturatorze i dobierz swój ulubiony poziom gazu:<br>1–2 przyciśnięcia – woda lekko gazowana, <br>3–4 przyciśnięcia – woda średnio gazowana, <br>5–6 przyciśnięć – mocny gaz.<br></p><p><strong>Ile wody można nagazować na jednym naboju CO2?</strong><br>Jeden nabój z gazem spożywczym CO2 pozwala na przygotowanie nawet 60 l wody gazowanej. To równowartość około 40 butelek o pojemności 1,5 l.</p><p><strong>Czy można używać saturatora do gazowania innych napojów niż woda?</strong><br>Saturator SodaStream jest przeznaczony do gazowania świeżej wody. Nie gazuj w nim innych napojów. Jeśli masz ochotę, syrop lub owoce możesz dodać do wody z bąbelkami.</p>",
+      "order": "LAST",
+      "align": "MID"
+    }
+  },
+  {
+    "type": "IMAGE",
+    "image": {
+      "url": "./MOD07.png",
+      "size": "L",
+      "alt": ""
+    }
+  },
+  {
+    "type": "TEXT",
+    "content": "<h3>SodaStream – bąbelki na każdą okazję</h3><p><strong>Napoje, które zawsze są pod ręką</strong><br>Pepsi, Pepsi Cherry, Mirinda, 7UP i Lipton Ice Tea Peach – to kultowe smaki, które teraz przygotujesz dokładnie tak, jak lubisz.</p><p><strong>Klasyczne smaki, które uwielbiasz</strong><br>Cola, Tonic, Cytryna Limonka i Xtreme Energy – to kultowe propozycje dla miłośników wyrazistych a zarazem odświeżających napojów.</p><p><strong>Owocowe kompozycje pełne smaku</strong><br>Marakuja, Pomarańcza Mango, Kwiat Czarnego Bzu i Owoce Leśne – to pyszne, owocowe orzeźwienie bez dodatku cukru.</p><p><strong>Twórz i miksuj jak profesjonalista</strong><br>SodaStream Crafted to niebanalne propozycje dla miłośników domowej miksologii – odkryj intrygujące połączenia, z którymi stworzysz napoje, które uświetnią każdą okazję.</p>"
+  },
+  {
+    "type": "IMAGE",
+    "image": {
+      "url": "./MOD08.png",
+      "size": "L",
+      "alt": ""
+    }
+  }
+]
